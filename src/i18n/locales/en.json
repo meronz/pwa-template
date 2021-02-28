@@ -1,0 +1,9 @@
+{
+  "nav": {
+    "home": "Home",
+    "lights": "Lights"
+  },
+  "home": {
+    "start": "Start"
+  }
+}
